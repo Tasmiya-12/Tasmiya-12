@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tasmiya-12
-- 👀 I’m interested in coding
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on this
 - 📫 How to reach me musarathsulthana1980@gmail.com
 
 <!---
