@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/tasmiya__12" target="blank"><img src="https://img.shields.io/twitter/follow/tasmiya__12?logo=twitter&style=for-the-badge" alt="tasmiya__12" /></a> </p>
 
-- 🔭 I’m currently working on **an Internship of Image Processing using Open CV**
+- 🔭 I’m currently doing **an Internship of Image Processing using Open CV**
 
 - 🌱 I’m currently learning **Web Development**
 
